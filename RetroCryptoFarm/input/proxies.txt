@@ -1,0 +1,4 @@
+# Put your HTTP proxies here, one per line.
+# Format: ip:port:user:pass
+# Example:
+# 192.168.1.1:8000:user:pass

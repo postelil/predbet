@@ -1,0 +1,17 @@
+{
+  "name": "retro-crypto-farm",
+  "version": "1.0.0",
+  "description": "MetaMask Rewards Automation",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node src/bot.js"
+  },
+  "dependencies": {
+    "puppeteer": "^22.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.1.1",
+    "https-proxy-agent": "^7.0.2"
+  }
+}
